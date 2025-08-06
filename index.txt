@@ -1,0 +1,4 @@
+Meu-projeto
+Este é um projeto simples feito para praticar Git e GitHub.
+estou apremdendo então poderá conter erros
+o coisa difícil kkk
